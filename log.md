@@ -23,3 +23,4 @@ Detailed Log Notes:
  - Adjusted the Block Design by adding a timer, which is required for FreeRTOS interrupt ticks to run properly
  - Used the new XSA to create the "platform component" in Vitis; this is the HW layer that the FreeRTOS app is built upon
  - Built the FreeRTOS app on this platform, and ran Xilinx's Hello World template, which uses RTOS tasks to communicate to my PC over USB (verified on PuTTy)
+![image](https://github.com/user-attachments/assets/1b163854-8cd3-4c9e-bc59-1813740df4d0)
